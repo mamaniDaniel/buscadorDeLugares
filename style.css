@@ -1,0 +1,12 @@
+#mapa {
+    height: 500px;
+    margin: 10px;
+}
+
+.container {
+    margin-bottom: 30px;
+}
+
+#lugarAbuscar {
+    width: 38%;
+}
